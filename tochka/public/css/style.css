@@ -1,0 +1,25 @@
+.white-popup {
+    position: relative;
+    background: #FFF;
+    padding: 35px;
+    width: auto;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 5px;
+    user-select: none;
+}
+
+legend{
+    margin-bottom: 50px;
+}
+
+.form-control-search{
+    width: 50%;
+}
+
+.alert-danger{
+    padding: 10px;
+    text-align: center;
+    margin: 10px 0px;
+    width: 75%;
+}
